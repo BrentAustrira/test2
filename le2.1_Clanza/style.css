@@ -1,0 +1,48 @@
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-image: url('1.jpg'); /* Placeholder image URL */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+
+.navbar {
+  background-color: rgba(29, 89, 149, 0.8); /* Semi-transparent black background for better readability */
+}
+
+.jumbotron{
+  background-color: rgba(52, 58, 64, 0.8);
+}
+
+footer {
+  background-color: rgba(55, 62, 68, 0.423);
+  color: #ffffff;
+  padding: 10px;
+  width: 100%; /* Set the width to 100% */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+h2 {
+  font-weight: bold; /* Make heading fonts bold for better readability */
+}
+
+.space-before-text {
+  margin-top: 20px;
+}
+
+.highlight-text{
+  background-color: #40454872;
+  color: #ffffff;
+  padding: 10px;
+}
+
+body.page-2 {
+  background-image: url('6.jpg'); /* Replace with the background image URL for page 2 */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
